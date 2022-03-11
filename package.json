@@ -1,0 +1,30 @@
+{
+  "name": "typescriptrestapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon dist/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.21",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsravanthiR/typescriptRestApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AsravanthiR/typescriptRestApp/issues"
+  },
+  "homepage": "https://github.com/AsravanthiR/typescriptRestApp#readme",
+  "description": ""
+}
